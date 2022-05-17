@@ -1,0 +1,11 @@
+sidebar{
+    background-image: radial-gradient( circle farthest-corner at 83.7% 4.3%,  rgba(173,0,171,1) 0%, rgb(3, 17, 33) 90% );
+
+    height: 100vh;
+    width: 100vw;
+}
+
+.html{
+    width: 50%;
+    height: 50%
+}
