@@ -13,6 +13,7 @@ import './Card.css'
 				  <div>{postDetail.city}</div>
 				  <div>{postDetail.job_description}</div>
 				  
+				  
 			  </div>
 		  })}
 	  </div>
