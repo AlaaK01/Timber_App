@@ -4,6 +4,7 @@
 
  import SideBar from './components/SideBar/SideBar'
  import './App.css'
+import PostList from './components/Content/Post'
 
 function App() {
  
@@ -13,6 +14,7 @@ function App() {
       <Header/>
       <SideBar/>
       <h1>Timberss</h1>
+      <PostList />
       <Footer/>
     </div>
   )

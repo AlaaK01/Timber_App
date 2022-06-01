@@ -2,7 +2,6 @@ import React from 'react'
 
 
 const Card = () => {
-  console.log('hej');
   return (
     <div className='container'>
     <div class="card">
