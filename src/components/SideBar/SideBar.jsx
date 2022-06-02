@@ -1,4 +1,3 @@
-
 import './SideBar.css'
 
 
@@ -37,12 +36,13 @@ import './SideBar.css'
       else{
         timberL.style.display = 'block';
       }
-      if(scrollY >= 190){
-        document.querySelector('sidebar').style.background = 'radial-gradient(circle, rgba(185,148,164,1) 0%, rgba(60,110,167,1) 61%)';
-        //document.querySelector('sidebar').style.background = 'radial-gradient(circle, rgba(196,171,182,1) 0%, rgba(21,47,76,1) 61%)';
+      if(scrollY >= 200){
+        //document.querySelector('.sidebar').style.background = 'radial-gradient(circle, rgba(185,148,164,1) 0%, rgba(60,110,167,1) 61%)';
+        document.querySelector('.sidebar').style.background = 'radial-gradient(circle, rgba(185,148,164,1) 0%, rgba(60,110,167,1) 60%)';
+        //document.querySelector('.sidebar').style.background = 'radial-gradient(circle, rgba(180,171,182,10) 0%, rgba(21,47,76,1) 60%)';
       }
       else{
-        document.querySelector('sidebar').style.background = 'radial-gradient( circle farthest-corner at 83.7% 4.3%,  rgba(173,0,171,1) 0%, rgb(3, 17, 33) 60% )';
+        document.querySelector('.sidebar').style.background = 'radial-gradient( circle farthest-corner at 83.7% 4.3%,  rgba(173,0,171,1) 0%, rgb(3, 17, 33) 60% )';
       }
       
       
@@ -53,7 +53,7 @@ import './SideBar.css'
   const SideBar = () => {
   
   return (
-    <sidebar>
+    <div className="sidebar">
       <div className="images">
 
         <img src={stars} id="stars" alt="HTML" />
@@ -78,7 +78,7 @@ import './SideBar.css'
             
       </div>
         
-    </sidebar>
+    </div>
   );
 
   
