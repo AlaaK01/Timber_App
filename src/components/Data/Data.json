@@ -1,67 +1,66 @@
 [
 {
 	"id":1,
-	"job_title":"Bartender",
+	"job_title":"Demo-kock",
 	"city":"Göteborg",
-	"job_description":"ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in",
-	"image":"http://dummyimage.com/135x100.png/ff4444/ffffff",
-	"url":
+	"job_description":"Vi söker nu en demo-kock till vår demorestaurang som tyvärr inte finns på riktigt. Den här annonsen är endast för att visa hur hemsidan fungerar och ser ut! Välkommen att söka till något utav dom andra jobben på hemsidan.",
+	"image":"https://krogjobb.se/wp-content/uploads/2021/06/kock.jpeg",
+	"url": "https://krogjobb.se/jobb/kock-till-var-demorestaurang/"
 },
 {
 	"id":2,
-	"job_title":"Assistant Professor",
+	"job_title":"Servitris / servitör till Gaubi",
 	"city":"Göteborg",
-	"job_description":"cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi",
-	"image":"http://dummyimage.com/224x100.png/cc0000/ffffff"
+	"job_description":"I maj öppnade vi upp dörrarna till en ny restaurang som är belägen vid vattnet i Eriksberg. Vi söker servitriser/ servitörer som älskar att jobba med alla delar av en restaurang, front of house work, disktjänst och assistans i köket tillhör jobbet.",
+	"image":"https://krogjobb.se/wp-content/uploads/2021/06/IMG_5155__mmcompress-normal__-800x600.jpeg",
+	"url": "https://krogjobb.se/jobb/servitris-servitor-till-gaubi/"
 },
 {
 	"id":3,
-	"job_title":"Senior Developer",
+	"job_title":"Kock",
 	"city":"Göteborg",
-	"job_description":"nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi","image":"http://dummyimage.com/234x100.png/dddddd/000000"
+	"job_description":"Karlbergs Krog söker en medarbetare till vårt köksteam på Stenungstorg i Stenungsund. Du är en rutinerad kock som utan någon omfattande inskolning och ganska omgående kan fungera som en av våra À la carte-kockar. Erfarenhet från liknande verksamhet är ett absolut krav. För rätt person är vi beredda att betala 250 kronor i timmen.",
+	"image":"https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/arbetsplatser/86951835/logotyper/logo.png",
+	"url":"https://arbetsformedlingen.se/platsbanken/annonser/26095753"
 },
-{"id":4,
-	"job_title":"Budget/Accounting Analyst I",
+{
+	"id":4,
+	"job_title":"Bartender Sökes",
 	"city":"Göteborg",
-	"job_description":"dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt",
-	"image":"http://dummyimage.com/191x100.png/ff4444/ffffff"
+	"job_description":"Nu söker vi på Papa Mastani på Linnegatan barpersonal! Papa Mastani är en fransk bistro med inslag av kaspiska havet.Vi söker dig som har en positiv inställning, är en problemlösare och gillar att arbeta i team!",
+	"image":"https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/arbetsplatser/87734665/logotyper/logo.png",
+	"url": "https://arbetsformedlingen.se/platsbanken/annonser/26167041"
 },
 {
 	"id":5,
-	"job_title":"Recruiter",
+	"job_title":"Bartender till West Coast Gothia",
 	"city":"Göteborg",
-	"job_description":"ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor",
-	"image":"http://dummyimage.com/193x100.png/5fa2dd/ffffff"
+	"job_description":"Vi söker nu engagerade och serviceinriktade bartenders till vår lobbybar West Coast på Gothia Towers. West Coast är en kärleksförklaring till västkusten, Sverige och vårt fantastiska skafferi av ekologiska och närproducerade råvaror. En modern bistro där vi serverar traditionella svenska rätter med en modern twist. West Coast är en del av Gothia Towers.",
+	"image":"https://westcoastgbg.se/uploads/sites/25/2016/12/73e6cc1c-1b14-4a99-87d4-091db01154f8.png",
+	"url": "https://svenskamassan.varbi.com/what:job/jobID:516945/type:job/where:1/apply:1"
 },
-{"id":6,
-	"job_title":"Structural Engineer",
+{
+	"id":6,
+	"job_title":"Bartender/Serverings Fridas Mexikanska kök AB",
 	"city":"Göteborg",
-	"job_description":"odio cras mi pede malesuada in imperdiet et commodo vulputate justo in",
-	"image":"http://dummyimage.com/195x100.png/cc0000/ffffff"
+	"job_description":"Nu har vi en ledig plats för en person som i första hand är en duktig bartender och som också kan servera. Restaurangen är liten och det är viktigt att vi samarbetar och rycker in där det behövs.Vi söker dig som älskar mat och dryck, kan jobba strukturerat i tidvis högt tempo, och brinner för service!",
+	"image":"https://www.arbetsformedlingen.se/rest/arbetsgivare/rest/af/v3/arbetsplatser/87167469/logotyper/logo.png",
+	"url": "https://arbetsformedlingen.se/platsbanken/annonser/26162423"
 },
 {
 	"id":7,
-	"job_title":"VP Quality Control",
+	"job_title":"Bartender Pinchos Heden",
 	"city":"Göteborg",
-	"job_description":"amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi",
-	"image":"http://dummyimage.com/139x100.png/5fa2dd/ffffff"
+	"job_description":"Baren på Pinchos Heden - något för dig? I baren på Pinchos Heden har du världens utsikt, du frontar vår magiska restaurang och möter väldigt många av våra fina gäster. Vi letar efter någon som kan arbeta självständigt i baren men som också förstår vikten av teamkänslan i restaurangen i sin helhet. Vi behöver någon som inte bara levererar välsmakande drinkar utan också har förmågan ge våra gäster ett glatt och personligt bemötande.",
+	"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGJ8PIk93ZZ57MiNNO1qkySXIwPzACKtnffA&usqp=CAU",
+	"url": "https://pinchos.teamtailor.com/jobs/1819864-nu-soker-vi-dig-till-baren-pa-pinchos-heden?promotion=422551-arbetsformedlingen"
 },
-{"id":8,
-	"job_title":"Senior Developer",
+{  
+	"id":8,
+	"job_title":"Bartender Le Pain Francais Brasserie AB",
 	"city":"Göteborg",
-	"job_description":"aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non","image":"http://dummyimage.com/111x100.png/cc0000/ffffff"
-},
-{"id":9,
-	"job_title":"Office Assistant I",
-	"city":"Göteborg",
-	"job_description":"massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh",
-	"image":"http://dummyimage.com/102x100.png/cc0000/ffffff"
-},
-{
-	"id":10,
-	"job_title":"Recruiting Manager",
-	"city":"Göteborg",
-	"job_description":"suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in",
-	"image":"http://dummyimage.com/169x100.png/dddddd/000000"
+	"job_description":"Vi söker dig som är motiverad och gillar att jobba i team. Du har arbetat med servering under minst ett år och har mat- och dryckeskunskaper. Vi ser gärna att du är service sinnad, positiv och försäljningsinriktad.Vi är en expansiv organisation där du som sökande har stora möjligheter att utvecklas samt avancera. ",
+	"image":"https://lepainfrancais.se/wp-content/uploads/2019/02/lepainfrancais-logo01.png",
+	"url": "https://arbetsformedlingen.se/platsbanken/annonser/26157465"
 }
 ]

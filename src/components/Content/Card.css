@@ -1,35 +1,61 @@
-.container{
+.card_container{
 	display: grid;
     grid-template-columns: repeat(4,1fr);
     column-gap: 10px;
     row-gap: 10px;
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
 }
+
+.base{
+	width: 100%;
+	margin: 0;
+	overflow: hidden;
+	display: block;
+	float: none;
+	border: 1px solid grey;
+	border-radius: 10px;
+	background-color:antiquewhite;
+  }
 .card {
-	box-shadow: 0 4px 8px 0 rgba(247, 246, 246, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(247, 246, 246, 0.2);
 	max-width: 300px;
 	margin: auto;
 	text-align: center;
 	font-family: arial;
-	border-top-right-radius: 10px;
-    border-top-left-radius: 10px;
-	border-color: hotpink;
+
   }
+  .city{
+	  font-size: larger;
+	  font-weight: 500;
+	  margin: auto;
+	  font-family:'Times New Roman', Times, serif;
+	  color: grey;
+  }
+
   .job_title {
 	color: grey;
-	font-size: 22px;
+	font-size: 2em;
+	font-family:'Times New Roman', Times, serif;
   }
   
+  .image {
+	  height: 10em;
+	  width: 15em;
+	  margin-top: 2em;
+	  margin-bottom: 2em;
+  }
+
   .card button {
 	border: none;
+	margin: 2em auto;
 	outline: 0;
 	padding: 12px;
-	color: white;
+	color: rgb(234, 234, 237);
 	background-color: #000;
 	text-align: center;
 	cursor: pointer;
-	width: 100%;
+	width: 80%;
 	font-size: 18px;
   }
   
