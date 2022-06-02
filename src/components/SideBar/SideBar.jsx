@@ -66,15 +66,9 @@ import './SideBar.css'
         <img src={mountains7} id="mountains7" alt="HTML" />
       </div>
       <div className="content">
-        <h2>Hitta ditt drömjobb bland 12000 annonser i hela Sverige!</h2>
-        <p>Oavsett var i landet du är, finns vi där för dig. Med lokalkontor från Malmö i söder
-           till Kiruna i norr hjälper vi människor och organisationer över hela landet. Vår starka
-            lokala närvaro hjälper oss nå vårt viktiga uppdrag – att hjälpa människor till en utvecklande 
-            karriär och företag att hitta rätt medarbetare.</p>
-            <p>Som internt anställd hos Randstad har du en unik möjlighet att påverka vårt samhälle positivt.
-               Oavsett vilken roll du har i vår organisation eller var i landet du befinner dig är du en viktig
-                del i att hjälpa människor att nå sin fulla potential genom en meningsfull karriär, och företag 
-                att växa och utvecklas med rätt kompetens. På Randstad gör vi skillnad - på riktigt.</p>
+        <h2>Hitta ditt perfekta krogjobb bland annonser i Göteborg!</h2>
+        <p>Vi kopplar samman arbetssökande med eftertraktade tjänster inom hotell och krogbranschen på ett smidigt och enkelt sätt. Vi ser till att processen mellan den första kontakten och kontraktsskrivning blir så kort och lätt som möjligt, så att ni som arbetstagare och arbetsgivare kan fokusera på det som är viktigt för er.</p>
+            <p>Hos Timber får näringsidkare möjligheten att placera ut annonser inom hotell och krogindustrin. Arbetstagare får möjligheten att se över annonserna och ansöka tjänsten vid intresse. För att ställa ut annonser i Timber kontakta oss via "om oss" knappen </p>
             
       </div>
         

@@ -7,12 +7,14 @@ import './about.css'
 const About = () => {
   return (
 	<div className="about">
-	<h1>About Pokemons Web Site</h1>
+	<h1>Om Timber AB</h1>
 	<div className="paragraph">
-	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto error nulla laudantium rerum, blanditiis accusamus molestias earum rem unde placeat quisquam libero, molestiae, quo necessitatibus animi cupiditate consectetur veritatis debitis magnam tempore nobis eius dolor voluptates. Sit, doloremque aliquid! Vel, voluptas eveniet. Nobis, deserunt consequuntur eius eaque quaerat neque cupiditateLorem ipsum dolor sit amet consectetur adipisicing elit. Architecto error nulla laudantium rerum, blanditiis accusamus molestias earum rem unde placeat quisquam libero, molestiae, quo necessitatibus animi cupiditate consectetur veritatis debitis magnam tempore nobis eius dolor voluptates. Sit, doloremque aliquid! Vel, voluptas eveniet. Nobis, deserunt consequuntur eius eaque quaerat neque cupiditate.</p>
+	<p> Timber är till för att matcha rätt personal till rätt tjänster utan dröjsmål. vår vision är att koppla samman arbetstagare med arbetssökande på ett smidigt och enkelt sätt. Vi ser till att processen mellan den första kontakten och kontraktsskrivning blir så kort och lätt som möjligt, så att ni som arbetstagare och arbetsgivare kan fokusera på det som är viktigt för er.  </p>
 	</div>
-			<p>We hope that you pass interesting time in out webbsid</p>
-	<Link to="/about/contact">Contact Us</Link>
+			<p>Vid eventuella frågor och funderingar följ länken nedanför </p>
+	
+		<Link className='link' to="/about/contact">Kontakta oss</Link>
+		
 	<Routes>
 		<Route path="/about/contact" element={<Contact/>}/>
 

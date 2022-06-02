@@ -14,3 +14,13 @@
   .about div{
 	width:80%
   }
+.link{
+	font-size: 22px;
+	text-decoration: none;
+	font-weight: 500;
+	color: black;
+}
+
+.link:hover{
+	opacity: 80%;
+}

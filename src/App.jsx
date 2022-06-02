@@ -9,7 +9,7 @@ import Contact from './components/about/contact'
 import Cards from './components/Card/Cards'
 import React, { useState, useEffect } from "react";
 import './App.css'
-import Content from './components/Content/Content'
+import PostList from './components/Content/PostList'
 
 
 
@@ -54,7 +54,7 @@ function App() {
 					<Route path="/" element={
             <div>
             <SideBar/>
-            <Content pokemons={pokemon}  handleAdd={handleAdd}/>
+            <PostList/>
             
             </div>
           } />

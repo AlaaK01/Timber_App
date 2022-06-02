@@ -15,3 +15,16 @@
 	width:80%;
     
   }
+
+  .mail{
+	font-size: 22px;
+	text-decoration: none;
+	font-weight: 600;
+	color: black;
+	background-color: inherit;
+	border: 0;
+  }
+  .mail:hover{
+	  opacity: 70%;
+  }
+  
